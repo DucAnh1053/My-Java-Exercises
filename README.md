@@ -39,4 +39,4 @@
 
 ## 4. Cách sử dụng Git
 
-Đây là một trang khá trực quan về cách sử dụng Git: **[git - hướng dẫn đơn giản](https://eff.org)**.
+Đây là một trang khá trực quan về cách sử dụng Git: **[git - hướng dẫn đơn giản](https://rogerdudler.github.io/git-guide/index.vi.html)**.
