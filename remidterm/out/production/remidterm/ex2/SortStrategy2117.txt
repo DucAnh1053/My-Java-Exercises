@@ -1,0 +1,12 @@
+Using Bubble Sort Algorithm
+Before sorting: [86, 97, 64, 91, 94, 26, 22, 26, 47, 92]
+After sorting: [22, 26, 26, 47, 64, 86, 91, 92, 94, 97]
+Number of swap: 27
+Using Selection Sort Algorithm
+Before sorting: [86, 97, 64, 91, 94, 26, 22, 26, 47, 92]
+After sorting: [22, 26, 26, 47, 64, 86, 91, 92, 94, 97]
+Number of swap: 9
+Using Insertion Sort Algorithm
+Before sorting: [86, 97, 64, 91, 94, 26, 22, 26, 47, 92]
+After sorting: [22, 26, 26, 47, 64, 86, 91, 92, 94, 97]
+Number of swap: 27

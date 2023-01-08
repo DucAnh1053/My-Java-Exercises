@@ -1,0 +1,116 @@
+Banh trong cua hang:
+1. Thick crust bread, with tomato sauce, Cheese
+2. Thick crust bread, with tomato sauce, Olives
+3. Thick crust bread, with tomato sauce, Cheese, Olives
+4. Thin crust bread, with tomato sauce, Cheese
+5. Thin crust bread, with tomato sauce, Olives
+6. Thin crust bread, with tomato sauce, Cheese, Olives
+7. Thick crust bread, with tomato sauce, Cheese
+8. Thick crust bread, with tomato sauce, Olives
+9. Thick crust bread, with tomato sauce, Cheese, Olives
+10. Thin crust bread, with tomato sauce, Cheese
+11. Thin crust bread, with tomato sauce, Olives
+12. Thin crust bread, with tomato sauce, Cheese, Olives
+13. Thick crust bread, with tomato sauce, Cheese
+14. Thick crust bread, with tomato sauce, Olives
+15. Thick crust bread, with tomato sauce, Cheese, Olives
+16. Thin crust bread, with tomato sauce, Cheese
+17. Thin crust bread, with tomato sauce, Olives
+18. Thin crust bread, with tomato sauce, Cheese, Olives
+19. Thick crust bread, with tomato sauce, Cheese
+20. Thick crust bread, with tomato sauce, Olives
+21. Thick crust bread, with tomato sauce, Cheese, Olives
+22. Thin crust bread, with tomato sauce, Cheese
+23. Thin crust bread, with tomato sauce, Olives
+24. Thin crust bread, with tomato sauce, Cheese, Olives
+25. Thick crust bread, with tomato sauce, Cheese
+26. Thick crust bread, with tomato sauce, Olives
+27. Thick crust bread, with tomato sauce, Cheese, Olives
+28. Thin crust bread, with tomato sauce, Cheese
+29. Thin crust bread, with tomato sauce, Olives
+30. Thin crust bread, with tomato sauce, Cheese, Olives
+
+Them banh vao cua hang:
+Cua hang sau khi them banh:
+1. Thick crust bread, with tomato sauce, Cheese
+2. Thick crust bread, with tomato sauce, Olives
+3. Thick crust bread, with tomato sauce, Cheese, Olives
+4. Thin crust bread, with tomato sauce, Cheese
+5. Thin crust bread, with tomato sauce, Olives
+6. Thin crust bread, with tomato sauce, Cheese, Olives
+7. Thick crust bread, with tomato sauce, Cheese
+8. Thick crust bread, with tomato sauce, Olives
+9. Thick crust bread, with tomato sauce, Cheese, Olives
+10. Thin crust bread, with tomato sauce, Cheese
+11. Thin crust bread, with tomato sauce, Olives
+12. Thin crust bread, with tomato sauce, Cheese, Olives
+13. Thick crust bread, with tomato sauce, Cheese
+14. Thick crust bread, with tomato sauce, Olives
+15. Thick crust bread, with tomato sauce, Cheese, Olives
+16. Thin crust bread, with tomato sauce, Cheese
+17. Thin crust bread, with tomato sauce, Olives
+18. Thin crust bread, with tomato sauce, Cheese, Olives
+19. Thick crust bread, with tomato sauce, Cheese
+20. Thick crust bread, with tomato sauce, Olives
+21. Thick crust bread, with tomato sauce, Cheese, Olives
+22. Thin crust bread, with tomato sauce, Cheese
+23. Thin crust bread, with tomato sauce, Olives
+24. Thin crust bread, with tomato sauce, Cheese, Olives
+25. Thick crust bread, with tomato sauce, Cheese
+26. Thick crust bread, with tomato sauce, Olives
+27. Thick crust bread, with tomato sauce, Cheese, Olives
+28. Thin crust bread, with tomato sauce, Cheese
+29. Thin crust bread, with tomato sauce, Olives
+30. Thin crust bread, with tomato sauce, Cheese, Olives
+31. Thick crust bread, with tomato sauce, Cheese
+32. Thick crust bread, with tomato sauce, Cheese
+33. Thin crust bread, with tomato sauce, Olives
+34. Thin crust bread, with tomato sauce, Cheese, Olives
+
+Banh mi con lai theo thu tu gia tang dan:
+1. Thin crust bread, with tomato sauce, Cheese
+2. Thin crust bread, with tomato sauce, Cheese
+3. Thin crust bread, with tomato sauce, Cheese
+4. Thin crust bread, with tomato sauce, Cheese
+5. Thin crust bread, with tomato sauce, Cheese
+6. Thin crust bread, with tomato sauce, Olives
+7. Thin crust bread, with tomato sauce, Olives
+8. Thin crust bread, with tomato sauce, Olives
+9. Thin crust bread, with tomato sauce, Olives
+10. Thin crust bread, with tomato sauce, Olives
+11. Thin crust bread, with tomato sauce, Olives
+12. Thin crust bread, with tomato sauce, Cheese, Olives
+13. Thin crust bread, with tomato sauce, Cheese, Olives
+14. Thin crust bread, with tomato sauce, Cheese, Olives
+15. Thin crust bread, with tomato sauce, Cheese, Olives
+16. Thin crust bread, with tomato sauce, Cheese, Olives
+17. Thin crust bread, with tomato sauce, Cheese, Olives
+18. Thick crust bread, with tomato sauce, Cheese
+19. Thick crust bread, with tomato sauce, Cheese
+20. Thick crust bread, with tomato sauce, Cheese
+21. Thick crust bread, with tomato sauce, Cheese
+22. Thick crust bread, with tomato sauce, Cheese
+23. Thick crust bread, with tomato sauce, Cheese
+24. Thick crust bread, with tomato sauce, Cheese
+25. Thick crust bread, with tomato sauce, Olives
+26. Thick crust bread, with tomato sauce, Olives
+27. Thick crust bread, with tomato sauce, Olives
+28. Thick crust bread, with tomato sauce, Olives
+29. Thick crust bread, with tomato sauce, Olives
+30. Thick crust bread, with tomato sauce, Cheese, Olives
+31. Thick crust bread, with tomato sauce, Cheese, Olives
+32. Thick crust bread, with tomato sauce, Cheese, Olives
+33. Thick crust bread, with tomato sauce, Cheese, Olives
+34. Thick crust bread, with tomato sauce, Cheese, Olives
+
+10 banh mi gia thap nhat con trong cua hang:
+1. Thin crust bread, with tomato sauce, Cheese
+2. Thin crust bread, with tomato sauce, Cheese
+3. Thin crust bread, with tomato sauce, Cheese
+4. Thin crust bread, with tomato sauce, Cheese
+5. Thin crust bread, with tomato sauce, Cheese
+6. Thin crust bread, with tomato sauce, Olives
+7. Thin crust bread, with tomato sauce, Olives
+8. Thin crust bread, with tomato sauce, Olives
+9. Thin crust bread, with tomato sauce, Olives
+10. Thin crust bread, with tomato sauce, Olives

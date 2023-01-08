@@ -1,0 +1,8 @@
+My code to calculate e^2.2cos(3.3):
+-8.912018253845604
+Math library:
+-8.912018253845606
+My code to convert 123456789123456789 from base 13 to base 8
+1063437442305267075026
+BigInteger library:
+1063437442305267075026
